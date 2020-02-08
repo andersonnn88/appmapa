@@ -1,0 +1,72 @@
+{
+  "devs": [
+    {
+      "techs": [
+        "ReactJs",
+        "React Native",
+        "Node.js"
+      ],
+      "_id": "1",
+      "github_username": "andersonnn88",
+      "name": "Casa Antonia",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35690587?v=4",
+      "bio": "Casa da Dona Toinha, São miguel N°: 419",
+      "telefone": "(88) 9-9999-9999",
+      "location": {
+        "coordinates": [
+          -39.309734,
+          -7.2109893
+        ],
+        "_id": "1",
+        "type": "Point"
+      },
+      "__v": 0
+    },
+    {
+      "techs": [
+        "ReactJs",
+        "React Native",
+        "Node.js"
+      ],
+      "_id": "2",
+      "github_username": "andersonnn88",
+      "name": "Casa Osmina",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35690587?v=4",
+      "bio": "Rua Emilia, Viela: 12 N° 20",
+      "telefone": "(11) 4143-6626",
+      "location": {
+        "coordinates": [
+          -46.9415751,
+          -23.5587773
+        ],
+        "_id": "2",
+        "type": "Point"
+      },
+      "__v": 0
+    },
+    {
+      "techs": [
+        "ReactJs",
+        "React Native",
+        "Node.js"
+      ],
+      "_id": "3",
+      "github_username": "andersonnn88",
+      "name": "Casa Aeroporto",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35690587?v=4",
+      "bio": "Rua Min Colombo de Souza, 520- Pedrinhas",
+      "telefone": "(88) 9999-9999",
+      "location": {
+        "coordinates": [
+          -39.2757171,
+          -7.1989053
+        ],
+        "_id": "3",
+        "type": "Point"
+      },
+      "__v": 0
+    }
+
+    
+  ]
+}
